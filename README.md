@@ -11,6 +11,12 @@ The system is designed for **retail automation, agriculture, smart farming, food
 
 
 
+<img width="445" height="252" alt="image" src="https://github.com/user-attachments/assets/64a8338a-dd34-462d-bb5a-5e4bce8775b2" />
+
+
+
+
+
 
 ---
 
