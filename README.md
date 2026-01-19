@@ -9,7 +9,7 @@ The system is designed for **retail automation, agriculture, smart farming, food
 
 ## 📂 Project Structure
 
-<img width="335" height="326" alt="image" src="https://github.com/user-attachments/assets/895fd9be-9367-4e57-9271-5e29229b927f" />
+
 
 
 ---
@@ -62,15 +62,28 @@ streamlit run app.py
 ## 📸 Screenshots
 
 Steamlit app:
+
+
 <img width="848" height="458" alt="image" src="https://github.com/user-attachments/assets/9025cb28-0c62-4348-a546-9c005e354587" />
+
 
 Table: Performance Evaluation of CNN Model for Fruit Classification
 
+
 <img width="542" height="126" alt="image" src="https://github.com/user-attachments/assets/a5e9d9bb-ae96-4919-9295-5085f2aab47a" />
+
 data:
+
+
 <img width="305" height="319" alt="image" src="https://github.com/user-attachments/assets/c2bf5f8a-497f-4364-a56d-122898bb0a98" />
 
+
+
 accuricy and loss:
+
+
 <img width="335" height="326" alt="image" src="https://github.com/user-attachments/assets/895fd9be-9367-4e57-9271-5e29229b927f" />
+
+
 
 
